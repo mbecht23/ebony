@@ -1,3 +1,3 @@
 # ebony
 
-Messing around with Open GL 
+Messing around with OpenGL 
